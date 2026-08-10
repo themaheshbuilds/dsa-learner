@@ -243,8 +243,8 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 <div align="center">
 
 ---
-### 👨‍💻 Created & Developed by **Mahesh Vilasagaram**
-*Built with ❤️ using AI Assistance*
+### 👨‍💻 Architected & Engineered by **Mahesh Vilasagaram**
+*AI-First Full-Stack Software Engineer*
 
 [![GitHub](https://img.shields.io/badge/GitHub-mahesh11112007-181717?style=for-the-badge&logo=github)](https://github.com/mahesh11112007)
 
