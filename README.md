@@ -7,7 +7,7 @@
 [![Flask](https://img.shields.io/badge/Flask-3.0.2-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Neon.tech-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://neon.tech)
 [![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-[![Author](https://img.shields.io/badge/Created_By-Mahesh_Vilasagaram-FF4500?style=for-the-badge)](https://github.com/mahesh11112007)
+[![Author](https://img.shields.io/badge/Created_By-Mahesh_Vilasagaram-FF4500?style=for-the-badge)](https://github.com/themaheshbuilds)
 [![License](https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge)](#license)
 
 [Features](#-key-features) • [System Architecture](#-system-architecture) • [Quick Start](#-quick-start) • [Workflow](#-platform-workflows) • [Deployment](#-deployment-guide)
@@ -141,7 +141,7 @@ erDiagram
 
 ### 1. Clone & Set Up Directory
 ```bash
-git clone https://github.com/mahesh11112007/dsa-learner.git
+git clone https://github.com/themaheshbuilds/dsa-learner.git
 cd dsa-learner
 ```
 
@@ -246,6 +246,6 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ### 👨‍💻 Architected & Engineered by **Mahesh Vilasagaram**
 *AI-First Full-Stack Software Engineer*
 
-[![GitHub](https://img.shields.io/badge/GitHub-mahesh11112007-181717?style=for-the-badge&logo=github)](https://github.com/mahesh11112007)
+[![GitHub](https://img.shields.io/badge/GitHub-themaheshbuilds-181717?style=for-the-badge&logo=github)](https://github.com/themaheshbuilds)
 
 </div>
